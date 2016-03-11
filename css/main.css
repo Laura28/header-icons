@@ -44,3 +44,28 @@ nav {
   text-align: center;
   border: .5px solid #a63f38;
 }
+
+nav a {
+  list-style-type: none;
+  text-decoration: none;
+  padding: .5em;
+  padding-left: .8em;
+  padding-right: .8em;
+  display: block;
+  color: #fff;
+  background-color: #d05c2e;
+  border-left: 1px solid #a63f38;
+  border-right: 1px solid #a63f38;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+  width: 33.333%;
+}
