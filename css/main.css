@@ -1,0 +1,21 @@
+html {
+  background-color: #fff;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 20px;
+}
+
+header {
+  background-color: #d05c2e;
+  color: #fff;
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 0;
+}
